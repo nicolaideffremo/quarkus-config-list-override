@@ -1,0 +1,8 @@
+greeting:
+  message: "profile"
+  names:
+    - "CC"
+  languages:
+    - name: "IT"
+      code: "14"
+
