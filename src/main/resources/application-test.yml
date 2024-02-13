@@ -1,4 +1,11 @@
 greeting:
+  message: "test"
   names:
     - "AA"
     - "BB"
+  languages:
+    - name: "EN"
+      code: "12"
+    - name: "DE"
+      code: "13"
+

@@ -1,0 +1,4 @@
+greeting:
+  message: "dev"
+  names:
+    - "CC"

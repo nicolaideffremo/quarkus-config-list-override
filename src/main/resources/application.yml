@@ -1,2 +1,10 @@
 greeting:
-  message: "hello"
+  names:
+    - "AA"
+    - "BB"
+  message: "default"
+  languages:
+    - name: "EN"
+      code: "12"
+    - name: "DE"
+      code: "13"
